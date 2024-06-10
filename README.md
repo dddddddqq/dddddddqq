@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dddddddqq
 - 👀 I’m interested in developing websites and games.
-- 🌱 I’m currently learning html,css,javascript,java, and c++
+- 🌱 I’m currently learning html,css,javascript,java, sql, and c++
 - 💞️ I’m looking to collaborate on ... none
 - 📫 How to reach me ... dont 
 - 😄 Pronouns: she/her
